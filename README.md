@@ -14,7 +14,7 @@
 
 ## 🙋🏾‍♀️ About Me
 
-- 🎓 Year 2 Computer Science student at Kwame Nkrumah University of Science and Technology (KNUST),
+- 🎓 Year 3 Computer Science student at Kwame Nkrumah University of Science and Technology (KNUST),
 - 🌍 Passionate about building tech solutions for African problems
 - 🔐 Exploring cybersecurity as a career direction
 - 💡 Interested in backend engineering, fintech, and mobile-first apps for West Africa
@@ -42,6 +42,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-thebadge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Databases**
 
@@ -56,6 +58,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ---
 
