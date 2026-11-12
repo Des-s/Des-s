@@ -17,8 +17,7 @@
 - 🎓 Year 3 Computer Science student at Kwame Nkrumah University of Science and Technology (KNUST),
 - 🌍 Passionate about building tech solutions for African problems
 - 🔐 Exploring cybersecurity as a career direction
-- 💡 Interested in backend engineering, fintech, and mobile-first apps for West Africa
-- 🌱 Currently learning: Spring Boot · React Native · PostgreSQL · System Design . Typescript . PHP
+- 💡 Interested in backend engineering, fintech, web-application, and mobile-first apps for West Africa
 
 ---
 
@@ -59,18 +58,5 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
----
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Deseree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Des-s&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Des-s&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
